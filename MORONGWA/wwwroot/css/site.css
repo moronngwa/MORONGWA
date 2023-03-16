@@ -1,3 +1,11 @@
+navbar-brand {
+    float: right;
+    padding: 15px 15px;
+    font-size: 40px;
+    line-height: 20px;
+    font-family: 'Facebook Letter Faces'
+}
+
 html {
   font-size: 14px;
 }
